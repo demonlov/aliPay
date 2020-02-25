@@ -21,7 +21,11 @@ import java.io.IOException;
 import java.util.*;
 
 import static com.wuchao.pay.config.AlipayConfig.ALIPAY_PUBLIC_KEY;
-
+/**
+ * @author WuChao
+ * @version 1.0
+ * @date 2020/2/25 17:35
+ */
 @Controller
 public class PayController {
 

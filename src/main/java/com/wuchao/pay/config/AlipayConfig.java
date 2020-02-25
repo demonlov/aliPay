@@ -1,5 +1,9 @@
 package com.wuchao.pay.config;
-
+/**
+ * @author WuChao
+ * @version 1.0
+ * @date 2020/2/25 17:35
+ */
 public class AlipayConfig {
     //支付宝商户号的APPID
     public static String APPID = "";
